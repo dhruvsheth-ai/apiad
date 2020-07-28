@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Projects
+
+Here are some of the most interesting projects I'm working on:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apiad&repo=auditorium)](https://github.com/apiad/auditorium)
