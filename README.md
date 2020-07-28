@@ -27,4 +27,4 @@ Here are some of the most interesting projects I'm working on:
 
 And here is how I like to waste my time:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiad&layout=compact)](https://github.com/apiad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apiad&layout=compact&hide=C++)](https://github.com/apiad)
