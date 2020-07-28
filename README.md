@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Alejandro Piad's Github stats](https://github-readme-stats.vercel.app/api?username=piad)](https://github.com/apiad)
+
 <!--
 **apiad/apiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
