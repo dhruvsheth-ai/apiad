@@ -1,0 +1,3 @@
+[submodule "deploy"]
+	path = deploy
+	url = git@github.com:apiad/apiad.github.io
