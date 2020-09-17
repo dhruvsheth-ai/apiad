@@ -3,7 +3,6 @@ site_url: https://apiad.net
 repo_url: https://github.com/apiad
 
 remote_branch: master
-remote_name: deploy
 
 theme:
     name: material
