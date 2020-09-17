@@ -2,6 +2,8 @@ site_name: Alejandro Piad-Morffis
 site_url: https://apiad.net
 repo_url: https://github.com/apiad
 
+remote_branch: master
+
 theme:
     name: material
     feature:
