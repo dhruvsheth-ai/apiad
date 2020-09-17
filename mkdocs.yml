@@ -1,0 +1,21 @@
+site_name: Alejandro Piad-Morffis
+site_url: https://apiad.net
+repo_url: https://github.com/apiad
+
+theme:
+    name: material
+    feature:
+        tabs: true
+    palette:
+        primary: black
+        accent: black
+
+markdown_extensions:
+    - codehilite
+    - toc:
+        permalink: true
+    - admonition
+
+nav:
+    - Home: index.md
+    - Projects: projects.md
