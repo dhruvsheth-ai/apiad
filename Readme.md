@@ -6,11 +6,11 @@ I live in Havana, 🇨🇺Cuba, but I'm temporally located in Alicante, 🇪🇸
 
 In my free time I also enjoy 💻[coding](https://apiad.net/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/blog).
 
-My two passions are 📚teaching and ⚗️researching. I teach Programming, Compilers, AI, and a bunch other stuff at the University of Havana. I also do research there, main on how to use artificial intelligence to better understand human languages.
+My two passions are 📚teaching and ⚗️researching. I teach Programming, Compilers, AI, and a bunch other stuff at the University of Havana. I also do research there, mostly on how to use artificial intelligence to better understand human languages.
 
 You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), 💼[LinkedIn](https://linkedin.com/in/apiad) and 😝[Reddit](https://www.reddit.com/user/apiad).
 
-## The things I value
+## These are the values I stand for
 
 ❤️ I believe that people are generally good, and if given the chance, they will show the better parts of themselves. 
 

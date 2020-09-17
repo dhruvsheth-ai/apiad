@@ -4,15 +4,13 @@ My name is 👨Alejandro Piad Morffis. Here are some things about me:
 
 I live in Havana, 🇨🇺Cuba, but I'm temporally located in Alicante, 🇪🇸Spain, finishing a 🎓PhD in Computer Science.  
 
-In my free time I also enjoy 💻coding, 🎮playing video games (sadly not much lately), and ✏️writing.
+In my free time I also enjoy 💻[coding](https://apiad.net/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/blog).
 
-My two passions are 📚teaching and ⚗️researching. I teach Programming, Compilers, AI, and a bunch other stuff at the University of Havana. I also do research there, main on how to use artificial intelligence to better understand human languages.
-
-Recently I've been coding a lot in 🐍Python, and have a couple ⚗️[FOSS projects on Github](https://apiad.net/projects) that might (or not) be interesting for some.
+My two passions are 📚teaching and ⚗️researching. I teach Programming, Compilers, AI, and a bunch other stuff at the University of Havana. I also do research there, mostly on how to use artificial intelligence to better understand human languages.
 
 You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), 💼[LinkedIn](https://linkedin.com/in/apiad) and 😝[Reddit](https://www.reddit.com/user/apiad).
 
-## The things I value
+## These are the values I stand for
 
 ❤️ I believe that people are generally good, and if given the chance, they will show the better parts of themselves. 
 
@@ -23,7 +21,3 @@ You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), �
 ❤️ I also believe people should have the chance to speak their minds, without being afraid to being silenced, or hated for it, even if they are wrong. And they should have the option to recognize their mistakes, learn from them, and be forgiven. 
 
 ❤️ However, I do not tolerate racism or discrimination of any kind, and work very hard to apply those same standards to my own behavior.
-
-## Where to go from here
-
-### Check out
