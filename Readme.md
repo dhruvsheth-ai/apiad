@@ -4,7 +4,7 @@ My name is 👨Alejandro Piad Morffis. Here are some things about me:
 
 I live in Havana, 🇨🇺Cuba, but I'm temporally located in Alicante, 🇪🇸Spain, finishing a 🎓PhD in Computer Science.  
 
-In my free time I also enjoy 💻[coding](https://apiad.net/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/blog).
+In my free time I also enjoy 💻[coding](https://apiad.net/projects) (mostly in 🐍Python), 🎮playing video games (sadly not much lately), and ✏️[writing](https://apiad.net/essays).
 
 My two passions are 📚teaching and ⚗️researching. I teach Programming, Compilers, AI, and a bunch other stuff at the University of Havana. I also do research there, mostly on how to use artificial intelligence to better understand human languages.
 
