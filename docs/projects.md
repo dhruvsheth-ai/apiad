@@ -16,6 +16,6 @@ Auditorium is my attempt to bring together Python with HTML for interactive slid
 
 ## Illiterate
 
-Illiterate is my take at the dilemma of code comments vs documentation. The idea stems from my love for the [Literate Programming](http://literateprogramming.com/) paradigm, but with a pragmatic twist that doesn't require any external tool and just relies on discipline and some conventions.
+Illiterate is my take at the dilemma of code comments vs documentation. The idea stems from my love for the [Literate Programming](http://literateprogramming.com/) paradigm, but with a pragmatic twist that doesn't require any external tooling but rather relies on discipline and conventions.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=apiad&repo=illiterate)](https://github.com/apiad/illiterate)
