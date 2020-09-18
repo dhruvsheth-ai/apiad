@@ -1,9 +1,5 @@
 # Algorithm Complexity
 
-> You can see this tweetstorm as originally posted in [this Twitter thread](https://twitter.com/AlejandroPiad/status/1306570124858716163).
-
----
-
 Hey, guess what, today is #TheoryThursday 🧐! 
 
 A silly excuse I just invented to share with you random bits of theory from some dark corner of Computer Science and make it as beginner-friendly as possible 👇
@@ -202,3 +198,10 @@ But that's a story for another Thursday 😉.
 
 🗒️ Here is the full thread source:
 <https://apiad.net/tweetstorms/theorythursday-algorithm-complexity/>
+
+---
+
+> You can see this tweetstorm as originally posted in this Twitter thread
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Hey, guess what, today is <a href="https://twitter.com/hashtag/TheoryThursday?src=hash&amp;ref_src=twsrc%5Etfw">#TheoryThursday</a> 🧐! <br><br>A silly excuse I just invented to share with you random bits of theory from some dark corner of Computer Science and make it as beginner-friendly as possible 👇</p>&mdash; Alejandro Piad-Morffis (@AlejandroPiad) <a href="https://twitter.com/AlejandroPiad/status/1306570124858716163?ref_src=twsrc%5Etfw">September 17, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
