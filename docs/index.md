@@ -12,7 +12,7 @@ My two passions are 📚teaching and ⚗️researching. I teach Programming, Com
 
 You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), 💼[LinkedIn](https://linkedin.com/in/apiad) and 😝[Reddit](https://www.reddit.com/user/apiad).
 
-## These are the values I stand for
+> **And these are the values I stand for:**
 
 ❤️ I believe that people are generally good, and if given the chance, they will show the better parts of themselves. 
 
