@@ -5,28 +5,41 @@ repo_url: https://github.com/apiad
 remote_branch: master
 
 theme:
-    name: material
-    features:
-        - tabs
-        - instant
-    palette:
-        primary: black
-        accent: black
+  name: material
+  features:
+    - tabs
+    - instant
+  palette:
+    primary: black
+    accent: black
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/apiad
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AlejandroPiad
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/apiad
+    - icon: fontawesome/brands/reddit
+      link: https://reddit.com/u/apiad
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/mostly_harmless_stuff
 
 markdown_extensions:
-    - codehilite
-    - toc:
-        permalink: True
-    - admonition
+  - codehilite
+  - toc:
+      permalink: True
+  - admonition
 
 nav:
-    - Home: index.md
-    - Projects: projects.md
-    - Essays:
-        - About essays: essays/index.md
-        - Why I love teaching: essays/teaching.md
-        - It's all about team-playing: essays/team-playing.md
-    - Tweetstorms:
-        - About tweetstorms: tweetstorms/index.md
-        - Algorithm Complexity: tweetstorms/theorythursday-algorithm-complexity.md
-        - Mary's Room: tweetstorms/philosophyfriday-mary-room.md
+  - Home: index.md
+  - Projects: projects.md
+  - Essays:
+    - About essays: essays/index.md
+    - Why I love teaching: essays/teaching.md
+    - It's all about team-playing: essays/team-playing.md
+  - Tweetstorms:
+    - About tweetstorms: tweetstorms/index.md
+    - Algorithm Complexity: tweetstorms/theorythursday-algorithm-complexity.md
+    - Mary's Room: tweetstorms/philosophyfriday-mary-room.md
