@@ -1,3 +1,5 @@
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Modern higher education is all about competences and skills. In the process, we are losing some very bright people who just don't fit this narrow-minded model of professionalism.
 
 Modern education started with the Industrial Revolution and the need to graduate tons of skilled workers to carry on the same tasks over and over. Previously, education was only for the brightest and/or luckiest, and usually consisted of a very custom path through which a tutor would guide you. Nowadays in universities all around the world, we have reduced students to numbers, grades, percentages, as if we were producing computer chips or combustion engines. Efficiency is all that matters.

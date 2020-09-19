@@ -1,3 +1,6 @@
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 When people ask me who I am, the short answer is "a teacher", even though I do a bunch of other stuff.
 This is why.
 
@@ -15,7 +18,7 @@ My first day in class every year, I like to throw a simple question at my studen
 And that's it. That small moment when I realize someone found its own best version, and I had a tiny bit of influence. That's my payment. That's why I love teaching.
 
 ---
-> 🗨️ If you want to discuss this topic, give me a shout in this tweet.
+> 🗨️ If you want to discuss this topic with me, give me a shout in this tweet.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I&#39;ve talked about how much I love teaching a bunch of times before. Here is a short essay where I try to answer why:<a href="https://t.co/u7fR5nXQli">https://t.co/u7fR5nXQli</a><br><br>If you have some time to read it, and want to discuss about it, just reply to this tweet or @ me. I&#39;m always open for a good talk.</p>&mdash; Alejandro Piad-Morffis (@AlejandroPiad) <a href="https://twitter.com/AlejandroPiad/status/1306899204883832832?ref_src=twsrc%5Etfw">September 18, 2020</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
