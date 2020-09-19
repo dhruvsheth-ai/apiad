@@ -72,7 +72,7 @@ But technology itself is neither good nor bad, it is just a tool. It's on oursel
 As usual, if you like this topic, have any questions, or just want to discuss, reply in this thread or @ me any time. I'll be listening.
 
 This thread is available in plain format here, forever:
-<https://apiad.net/tweetstorms/mindblowingmonday-gan>
+<https://apiad.net/tweetstorms/mindblowingmonday-gan/>
 
 ---
 
