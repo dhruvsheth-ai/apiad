@@ -12,7 +12,7 @@ My two passions are 📚teaching and ⚗️researching. I teach Programming, Com
 
 You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), 💼[LinkedIn](https://linkedin.com/in/apiad), 😝[Reddit](https://www.reddit.com/user/apiad) and 📱[Telegram](https://t.me/mostly_harmless_stuff).
 
-The best to contact me is to mention **@AlejandroPiad** on Twitter. I follow very few people (only those with whom I interact frequently) but I try to reply whenever someone asks me to.
+The best way to contact me is to mention **@AlejandroPiad** on Twitter. I follow very few people (only those with whom I interact frequently) but I try to reply whenever someone asks me to.
 
 > **And these are the values I stand for:**
 
