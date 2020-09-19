@@ -1,5 +1,3 @@
-# Mary's Room
-
 Hey, today is #PhilosophyFriday 🤔!
 
 How about discussing some philosophical aspects of Computer Science?

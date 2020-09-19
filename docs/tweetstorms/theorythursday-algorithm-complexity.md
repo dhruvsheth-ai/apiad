@@ -1,5 +1,3 @@
-# Algorithm Complexity
-
 Hey, guess what, today is #TheoryThursday 🧐! 
 
 A silly excuse I just invented to share with you random bits of theory from some dark corner of Computer Science and make it as beginner-friendly as possible 👇
