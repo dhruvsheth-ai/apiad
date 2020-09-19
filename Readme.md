@@ -24,6 +24,6 @@ You can find me online on 🗨️[Twitter](https://twitter.com/AlejandroPiad), �
 
 ❤️ I do not tolerate racism or discrimination of any kind, towards me or others around me, and I work very hard to apply those same standards to myself.
 
-❤️ I'm dedicated to education because I think that access to high-quality, unbiased, and free education is one of the best gifts anyone can receive, and of the easiest ways to make people more reasonable and tolerant. 
+❤️ I'm dedicated to education because I think that access to high-quality, unbiased, and free education is one of the best gifts anyone can receive, and one of the easiest ways to make people more reasonable and tolerant. 
 
 ❤️ I've been lucky to receive lots of great education from a lot of awesome teachers, to whom I'll be forever grateful. For these reasons, I share what I know for free, in the hopes someone can find it useful.
