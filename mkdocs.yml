@@ -2,6 +2,10 @@ site_name: "@AlejandroPiad"
 site_url: https://apiad.net
 repo_url: https://github.com/apiad
 
+google_analytics: 
+  - UA-35980410-3
+  - auto
+
 remote_branch: master
 
 theme:
