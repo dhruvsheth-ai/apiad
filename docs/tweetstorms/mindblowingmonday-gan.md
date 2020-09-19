@@ -16,7 +16,7 @@ Take a look at this mind-blowing 2-minute video and, if you like it, then read o
 
 ---
 
-Generative Adversarial Networks (GAN) have taken by surprise the machine learning world by their uncanny ability to generate hyper-realistic examples of human faces, cars, landscapes, and a lot of other stuff, as you just saw.
+Generative Adversarial Networks (GAN) have taken by surprise the machine learning world with their uncanny ability to generate hyper-realistic examples of human faces, cars, landscapes, and a lot of other stuff, as you just saw.
 
 Want to know how they work? 👇
 
