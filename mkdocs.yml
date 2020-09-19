@@ -6,11 +6,13 @@ remote_branch: master
 
 theme:
   name: material
+  favicon: avatar.png
+  logo: avatar.png
   features:
     - tabs
     - instant
   palette:
-    primary: black
+    primary: indigo
     accent: black
 
 extra:
@@ -34,7 +36,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
+  - About me:
+    - Open Source: about/projects.md
   - Essays:
     - About essays: essays/index.md
     - Why I love teaching: essays/teaching.md

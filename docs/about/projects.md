@@ -1,10 +1,12 @@
+# Open Source Projects
+
 Here are some of the most interesting projects I'm working on:
 > Using the amazing [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats)
 
 ## AutoGOAL
 
 AutoGOAL is a Python framework for Automated Machine Learning that I and a few other colleagues are building.
-It's the main research result of my [wife's PhD](https://github.com/sestevez), and it is a team project in which I'm a proud contributor and evangelist.
+It's the main research result of my [wife's Ph.D.](https://github.com/sestevez), and it is a team project in which I'm a proud contributor and evangelist.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autogoal&repo=autogoal)](https://github.com/autogoal/autogoal)
 
